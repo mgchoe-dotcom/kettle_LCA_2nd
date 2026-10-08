@@ -1,0 +1,14 @@
+material,scope,finished_mass_kg,factor_kg_co2e_per_kg,factor_geography,contribution_kg_co2e,factor_basis
+Stainless steel,Kettle,0.186,1.76,China,0.32736,Stainless steel production average; source reports kg CO2-e/kg; not grade-specific
+Brass,Kettle,0.02025,1.415,Germany,0.028653750000000002,CuZn20 brass alloy cradle-to-gate A1-A3 GWP-total per kg
+Copper,Kettle,0.015,5.88,China,0.0882,Chinese copper production route mix cradle-to-gate per kg
+Polypropylene (PP),Kettle,0.35025,1.878598,Japan,0.6579789495,Resin cradle-to-gate GHG per kg
+Polyvinyl chloride (PVC),Kettle,0.0435,2.026849,Japan,0.08816793149999999,Resin cradle-to-gate GHG per kg
+"Nylon, grade unspecified",Kettle,0.0495,7.45,Europe,0.368775,PA6/PA66 grouped EPD proxy; grade unspecified
+Polyoxymethylene (POM),Kettle,0.00975,3.15,Europe,0.0307125,POM/PBT grouped EPD proxy; grade unspecified
+Polycarbonate (PC),Kettle,0.00675,3.9,Europe,0.026324999999999998,PC solid sheet EPD A1-A3 proxy; includes sheet production
+Acrylonitrile-butadiene-styrene (ABS),Kettle,0.03,3.84,Europe,0.1152,ABS/ASA/PS grouped EPD proxy; grade unspecified
+Silicone,Kettle,0.012,5.79,Europe,0.06948,Virgin RTV-1 silicone sealant cradle-to-gate proxy; not necessarily kettle-grade silicone
+LDPE packaging foil,Packaging,0.0063,2.085433,Japan,0.0131382279,LDPE resin cradle-to-gate; film conversion not included
+Cardboard packaging,Packaging,0.1315,1.2,United States,0.1578,Corrugated board GHG factor excluding biogenic CO2
+Assumed aggregate conversion + assembly electricity,Kettle and packaging manufacture,,,"China, 2022",0.2683,Assumed 0.5 kWh/unit x official national-average 2022 electricity CO2 factor; CO2-only and not a full LCIA factor

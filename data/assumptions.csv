@@ -1,0 +1,10 @@
+item,value_or_status,unit,basis,reason_or_source,sensitivity_or_next_data
+Manufacturing yield,1.0,ratio,temporary assumption,no production loss records; finished mass used directly,obtain yield and scrap by material/process
+Conversion and assembly electricity,0.50,kWh/unit,aggregate scenario,prior submission assumption; no facility data,0/0.25/0.5/1 kWh scenarios in run sensitivity CSV
+Electricity factor,0.5366,kg CO2/kWh,China national-average 2022,prior submission source; operational CO2 only,replace with factory-region supply LCI
+Inbound transport,unknown,tonne-km,not quantified,no supplier locations/modes/distances,collect suppliers and route distances
+Process heat and water,unknown,per unit,not quantified,no process data,collect process inventory
+Scrap allocation and credit,unknown,kg and allocation rule,not quantified,no scrap quantities or destination,collect yield/scrap and treatment
+Grades and recycled content,unknown,material-specific,not specified in BOM,material forms/grades affect matching,collect resin grades/alloy/board and recycled shares
+Factory geography/year,unknown,not specified,not specified,no factory identity supplied,collect plant location and reference year
+Impact method,none selected,method/version,not applied,no linked elementary-flow inventory; heterogeneous proxies cannot support harmonized LCIA,select method and flow mapping after inventory closure

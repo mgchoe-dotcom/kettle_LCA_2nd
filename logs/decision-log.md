@@ -1,0 +1,9 @@
+# Prompt and modeling decision log
+
+- 2026-10-08: User requested a new cradle-to-gate reassessment in `mgchoe-dotcom/kettle_LCA_2nd`; prior commit is comparison-only and must not be modified. Functional unit: one packaged 1 L kettle at factory gate. Supplied BOM copied to `data/bom.csv`.
+- 2026-10-08: Verified the old repository at `87fda697d865538a830693baae80da810c7cd5d0`. Preserved its tracked files unchanged. Inspection found the described calculation script, BOM, and decision log were not present in that commit.
+- 2026-10-08: `release-downloads.md` at `C:\Users\DB_MSE\Downloads\release-downloads.md` reviewed as release/index documentation only; did not treat it as a database package. Its latest listed USLCI release is 1.2026-09.0.
+- 2026-10-08: TianGong catalog candidate metadata carried from the previous mapping and checked against public catalog listings where available. Candidates are not selected as providers where flow/process identity, year, product form, boundary, or upstream link are unresolved.
+- 2026-10-08: USLCI public search identified PVC resin unit process and several material exchanges within scanner manufacturing process datasets. These are recorded as candidates; scanner input exchanges are not misrepresented as independent production processes.
+- 2026-10-08: No linked material providers, full JSON-LD package, factory inventory, transport, yield/scrap, or LCIA method was available. Therefore perform a reproducible proxy arithmetic screening calculation only, with gaps explicit; do not claim a complete LCA.
+- 2026-10-08: Separate run ID `rerun-20261008-01`. Recompute BOM masses from CSV and calculate screening subtotal using the preserved legacy screening factor table, plus explicitly assumed electricity at 0.50 kWh/unit. Electricity sensitivity 0, 0.25, 0.50, 1.0 kWh.

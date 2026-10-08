@@ -1,0 +1,5 @@
+energy_kwh_per_unit,factor_kg_co2_per_kwh,energy_kg_co2,screening_arithmetic_total_kg_co2e
+0,0.5366,0.0,1.9717913589
+0.25,0.5366,0.13415,2.1059413589
+0.5,0.5366,0.2683,2.2400913589
+1,0.5366,0.5366,2.5083913589

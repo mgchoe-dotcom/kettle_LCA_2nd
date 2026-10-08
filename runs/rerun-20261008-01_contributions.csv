@@ -1,0 +1,13 @@
+material,scope,finished_mass_g,kg_proxy_factor_per_kg,factor_geography,contribution_kg_co2e_screening,status
+Stainless steel,Kettle,186.0,1.76,China,0.32736,proxy scenario; not harmonized LCIA
+Brass,Kettle,20.25,1.415,Germany,0.028653750000000002,proxy scenario; not harmonized LCIA
+Copper,Kettle,15.0,5.88,China,0.0882,proxy scenario; not harmonized LCIA
+Polypropylene (PP),Kettle,350.25,1.878598,Japan,0.6579789495,proxy scenario; not harmonized LCIA
+Polyvinyl chloride (PVC),Kettle,43.5,2.026849,Japan,0.08816793149999999,proxy scenario; not harmonized LCIA
+"Nylon, grade unspecified",Kettle,49.5,7.45,Europe,0.368775,proxy scenario; not harmonized LCIA
+Polyoxymethylene (POM),Kettle,9.75,3.15,Europe,0.0307125,proxy scenario; not harmonized LCIA
+Polycarbonate (PC),Kettle,6.75,3.9,Europe,0.026324999999999998,proxy scenario; not harmonized LCIA
+Acrylonitrile-butadiene-styrene (ABS),Kettle,30.0,3.84,Europe,0.1152,proxy scenario; not harmonized LCIA
+Silicone,Kettle,12.0,5.79,Europe,0.06948,proxy scenario; not harmonized LCIA
+LDPE packaging foil,Packaging,6.3,2.085433,Japan,0.0131382279,proxy scenario; not harmonized LCIA
+Cardboard packaging,Packaging,131.5,1.2,United States,0.1578,proxy scenario; not harmonized LCIA

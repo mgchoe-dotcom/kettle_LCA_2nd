@@ -1,0 +1,15 @@
+{
+  "run_id": "rerun-20261008-01",
+  "date": "2026-10-08",
+  "functional_unit": "one packaged 1 L electric kettle at factory gate",
+  "bom_scope_g": {
+    "Kettle": 723.0,
+    "Packaging": 137.8
+  },
+  "total_mass_g": 860.8,
+  "proxy_material_subtotal_kg_co2e": 1.9717913589,
+  "assumed_energy_kwh_per_unit": 0.5,
+  "assumed_energy_factor_kg_co2_per_kwh": 0.5366,
+  "screening_arithmetic_total_kg_co2e": 2.2400913589,
+  "result_status": "screening arithmetic only; incomplete inventory; not a complete LCA/LCIA"
+}

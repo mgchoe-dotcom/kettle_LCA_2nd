@@ -1,0 +1,7 @@
+Functional unit: one packaged 1 L electric kettle at factory gate
+Kettle materials: 723.00 g
+Packaging: 137.80 g
+Total packaged mass: 860.80 g
+Material-factor subtotal: 1.971791 kg CO2e/unit (heterogeneous external proxies)
+Central assumed electricity: 0.50 kWh/unit x 0.5366 kg CO2/kWh = 0.268300 kg CO2
+Screening central total: 2.240091 kg CO2e/unit (not a complete GWP100 LCIA result)

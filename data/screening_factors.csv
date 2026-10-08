@@ -1,0 +1,13 @@
+material,kg_co2e_per_kg,geography,scope_and_basis,source_url,status
+Stainless steel,1.76,China,Stainless steel production average; source reports kg CO2-e/kg; not grade-specific,https://doi.org/10.1002/ep.13125,External proxy
+Brass,1.415,Germany,CuZn20 brass alloy cradle-to-gate A1-A3 GWP-total per kg,https://www.oekobaudat.de/OEKOBAU.DAT/datasetdetail/process.xhtml?uuid=3d5b565c-187b-4413-ab45-3eaa89ede35d&version=20.21.060,External proxy
+Copper,5.88,China,Chinese copper production route mix cradle-to-gate per kg,https://doi.org/10.1016/j.jclepro.2020.122825,External proxy
+Polypropylene (PP),1.878598,Japan,Resin cradle-to-gate GHG per kg,https://www.pwmi.or.jp/column/column-2636/,External proxy
+Polyvinyl chloride (PVC),2.026849,Japan,Resin cradle-to-gate GHG per kg,https://www.pwmi.or.jp/column/column-2636/,External proxy
+"Nylon, grade unspecified",7.45,Europe,PA6/PA66 grouped EPD proxy; grade unspecified,https://www.epddanmark.dk/media/aaffkvml/md-26002-en.pdf,External proxy
+Polyoxymethylene (POM),3.15,Europe,POM/PBT grouped EPD proxy; grade unspecified,https://www.epddanmark.dk/media/aaffkvml/md-26002-en.pdf,External proxy
+Polycarbonate (PC),3.9,Europe,PC solid sheet EPD A1-A3 proxy; includes sheet production,https://epd-online.com/Epd/PdfDownload?id=23711&stat=true,External proxy
+Acrylonitrile-butadiene-styrene (ABS),3.84,Europe,ABS/ASA/PS grouped EPD proxy; grade unspecified,https://www.epddanmark.dk/media/aaffkvml/md-26002-en.pdf,External proxy
+Silicone,5.79,Europe,Virgin RTV-1 silicone sealant cradle-to-gate proxy; not necessarily kettle-grade silicone,https://pubs.rsc.org/en/content/articlehtml/2026/gc/d6gc01680d,External proxy
+LDPE packaging foil,2.085433,Japan,LDPE resin cradle-to-gate; film conversion not included,https://www.pwmi.or.jp/column/column-2636/,External proxy
+Cardboard packaging,1.2,United States,Corrugated board GHG factor excluding biogenic CO2,https://www.fibrebox.org/assets/2024/03/2020_LCA-_Full_Report.pdf,External proxy
